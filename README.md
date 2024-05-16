@@ -1,6 +1,10 @@
 # AutoCorrect API
 ### An Autocorrect API built from sratch using the Trie or Prefix Tree Data Structure along with FastAPI to handle asynchronous calls.
 
+<div align='center'>
+ <img src="https://skillicons.dev/icons?i=py,fastapi"></img>
+</div>
+
 ## Working 
 ![](Trie.jpg)
  Trie works by storing the prefixes in a Tree Data Structure, in our implementation we used the words from the text from from this repository, feel free to check it out [Link to Repository](https://github.com/dwyl/english-words/tree/master) and the file **'words_alpha.txt'** was used since this implementation doesn't focus on special characters.
@@ -39,6 +43,8 @@
 http://127.0.0.1:8000/autocorrect?word={word_to_autocorrect}&suggestion={number_of_suggestions_needed}&searchspace={solutions_to_terminate_at}
 ```
 ***(Note: Replace 'http://127.0.0.1:8000/' if it's hosted publicly)***
+
+## Output
 
 
 
