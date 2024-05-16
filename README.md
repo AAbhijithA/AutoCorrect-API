@@ -15,6 +15,7 @@
 ## Setting Up files and Run the API
 ### Clone the repository using the following command (or download it)
 ```
+> https://github.com/AAbhijithA/AutoCorrectAPI.git
 ```
 ### cd into the api.py folder and set up your virtual environment and necessary files (for Windows):
 ```bash
