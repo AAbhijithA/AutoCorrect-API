@@ -13,11 +13,11 @@
  solution space this way.
 
 ## Setting Up files and Run the API
-### Clone the repository using the following command (or download it)
+**Clone the repository using the following command:**
 ```
 > https://github.com/AAbhijithA/AutoCorrectAPI.git
 ```
-### cd into the api.py folder and set up your virtual environment and necessary files (for Windows):
+**cd into the api.py folder and set up your virtual environment and necessary files (for Windows):**
 ```bash
 > cd AutoCorrect
 > python -m venv env
@@ -25,11 +25,11 @@
 > python -m pip install uvicorn
 > python -m pip install fastapi
 ```
-### Run the API using the Command:
+**Run the API using the Command:**
 ```bash
 > uvicorn api:app --reload
 ```
-### Generally the API runs at 'http://127.0.0.1:8000/' (local projects)
+***(Generally the API runs at 'http://127.0.0.1:8000/')***
 
 ## API Key value Parameters:
 
