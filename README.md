@@ -45,6 +45,6 @@ http://127.0.0.1:8000/autocorrect?word={word_to_autocorrect}&suggestion={number_
 ***(Note: Replace 'http://127.0.0.1:8000/' if it's hosted publicly)***
 
 ## Output
-
+![](PostMan_OP.png)
 
 
