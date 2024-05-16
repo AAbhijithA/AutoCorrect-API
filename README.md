@@ -32,9 +32,9 @@
 
 ## API Key value Parameters:
 
- word = the word you are trying to autocorrect
- suggestion = number of suggestions needed
- searchspace = how many solutions to maximum search for in the Trie (to reduce time taken to respond)
+**word** = the word you are trying to autocorrect
+**suggestion** = number of suggestions needed
+**searchspace** = how many solutions to maximum search for in the Trie (to reduce time taken to respond)
 
 ## How to fetch Data:
 
