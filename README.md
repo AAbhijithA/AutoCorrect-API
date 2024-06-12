@@ -1,5 +1,5 @@
 # AutoCorrect API ✅
-### An Autocorrect API built from sratch using the Trie or Prefix Tree Data Structure along with FastAPI to handle asynchronous calls.
+### An Autocorrect API built from scratch using the Trie or Prefix Tree Data Structure along with FastAPI to handle asynchronous calls.
 
 <div align='center'>
  <img src="https://skillicons.dev/icons?i=py,fastapi"></img>
